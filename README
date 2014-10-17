@@ -1,0 +1,7 @@
+Read psrfits info
+
+To compile: sh run.sh
+
+Usage: psrfitsReader -f fname 
+
+	   fname: data file; 

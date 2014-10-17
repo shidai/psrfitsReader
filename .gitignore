@@ -1,0 +1,7 @@
+*.out
+*.txt
+*.std
+*.par
+*.tim
+*~
+*.swp
